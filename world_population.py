@@ -1,5 +1,7 @@
 import json
 
+import pygal
+
 from pygal.style import RotateStyle
 
 from pygal_maps_world.maps import World
