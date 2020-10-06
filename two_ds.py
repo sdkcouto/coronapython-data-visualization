@@ -1,4 +1,6 @@
-#15-7. Two D8s: Create a simulation showing what happens if you roll two eight-sided dice 1000 times. Increase the number of rolls gradually until you start to see the limits of your system’s capabilities.
+#15-6. Two D8s: Create a simulation showing what happens if you roll two eight-sided dice 1000 times. Increase the number of rolls gradually until you start to see the limits of your system’s capabilities.
+
+#15-8. Multiplication: When you roll two dice, you usually add the two numbers together to get the result. Create a visualization that shows what happens if you multiply these numbers instead.
 
 import pygal
 
